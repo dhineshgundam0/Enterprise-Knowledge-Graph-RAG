@@ -1,0 +1,1 @@
+neo4j\nlangchain\nlangchain-google-genai\npinecone-client\npydantic\npython-dotenv
